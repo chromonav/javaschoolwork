@@ -1,2 +1,2 @@
 # School Work
-Simple, basic work that is told to be done in college :)
+Assignment and schoolwork done in coolege practicals :)
