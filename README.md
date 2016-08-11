@@ -1,2 +1,2 @@
 # School Work
-Assignment and schoolwork done in coolege practicals :)
+Assignment and schoolwork done in college practicals :)
